@@ -15,7 +15,7 @@ the entire conversion in the browser.
 The main prerequisite is [deno](https://deno.land). Otherwise, you'll need some standard CLI build
 tools, such as `make` and `curl`.
 
-1. Clone this repo: `git clone --depth=1 git@github.com:wydengyre/pgs-to-srt.git`
+1. Clone this repo: `git clone --depth=1 git@github.com:GenesisLloret/pgs-to-srt.git`
 2. Enter the resulting directory: `cd pgs-to-srt`
 3. Install dependencies: `make deps`
 4. (Optional, but recommended for ease of use) Install the main
